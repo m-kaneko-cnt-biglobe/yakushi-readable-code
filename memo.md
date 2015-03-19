@@ -7,3 +7,8 @@ RecipeOutput.java
 +    System.out.println("オムライス");
 +  }
 +} 
+
+## いいところ
+1.手順が丁寧
+2.入力値のチェックをしている！
+3.
